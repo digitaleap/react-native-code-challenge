@@ -16,7 +16,7 @@ You can use third party libraries, but the more code you write yourself, the bet
 
 You have 1 week to submit your code, however we want to be respectful of your time and do **not** expect you to work for more than **4 hours** on this challenge.
 
-When you are finished please submit a .zip file with your entire project (node_modules included) to tehseen.siddiq@gmail.com.
+When you are finished please, create a different branch in this same repository push your code over there, create a pull request and add [@ahmedtehseen](https://github.com/ahmedtehseen) as a reviewer.
 
 ## 3. Basic Requirements
 
