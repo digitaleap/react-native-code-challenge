@@ -1,4 +1,4 @@
-# delivery.com React Native Coding Challenge
+# React Native Coding Challenge
 
 ## 1. Goal
 
